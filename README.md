@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 😄 Pronouns: He / Him 
 
-![LQR disturbance Rejection](https://i.ibb.co/27Fvfdg/LQRdisturbance-Rejection.gif)
