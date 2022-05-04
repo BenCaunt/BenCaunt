@@ -1,6 +1,4 @@
 ### goodmorning 
 
-drip (imo.)
-
 
 
